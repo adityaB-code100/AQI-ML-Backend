@@ -8,3 +8,4 @@ geopy>=2.3.0
 plotly>=5.15.0
 shapely>=2.0.0
 Flask>=2.3.0
+scikit-learn
